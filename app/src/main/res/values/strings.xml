@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Health</string>
+    <string name="title">«Комплексная система мониторинга здоровья»\n(Охапкин)</string>
+    <string name="surname">Фамилия</string>
+    <string name="example_surname">Охапкин</string>
+    <string name="name">Имя</string>
+    <string name="example_name">Дмитрий</string>
+    <string name="patronymic">Отчество</string>
+    <string name="example_patronymic">Александрович</string>
+    <string name="age">Возраст</string>
+    <string name="example_age">25</string>
+    <string name="btn_save">Сохранить</string>
+    <string name="btn_pressure_screen">Давление</string>
+    <string name="top_pressure">Верхнее давление</string>
+    <string name="example_top_pressure">120</string>
+    <string name="lower_pressure">Нижнее давление</string>
+    <string name="example_lower_pressure">80</string>
+    <string name="pulse">Пульс</string>
+    <string name="example_pulse">70</string>
+    <string name="tachycardia">Тахикардия</string>
+    <string name="btn_vital_statistics_screen">Показатели</string>
+    <string name="weight">Вес</string>
+    <string name="example_weight">70</string>
+    <string name="number_steps">Число шагов</string>
+    <string name="example_number_steps">10000</string>
+    <string name="title_vital_statistics_screen">Жизненные показатели</string>
+    <string name="title_pressure_screen">Давление</string>
+</resources>
